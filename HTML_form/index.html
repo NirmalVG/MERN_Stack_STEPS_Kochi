@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <form method="POST" action="" enctype="multipart/form-data">
+        <label for="name">FIRST NAME : </label>
+        <input type="text" id="name1" name="First_Name" placeholder="FIRST NAME"><br>
+        <label for="name">LAST NAME : </label>
+        <input type="text" id="name2" name="Last_Name" placeholder="LAST NAME"><br>
+        <label for="DOB">DATE OF BIRTH : </label>
+        <input type="date" id="DOB" name="DOB"><br>
+        <label for="email">EMAIL ID : </label>
+        <input type="email" id="email" name="email"><br>
+        <label for="phone">MOBILE NUMBER : </label>
+        <input type="number" id="phone" name="phone"><br>
+        <label for="gender">GENDER : </label>
+        <input type="radio" id="gender" name="gender" value="male" name="male">Male
+        <input type="radio" id="gender" name="gender" value="female" name="female">Female<br>
+        <label for="select">YEAR : </label>
+        <select id="select" name="select">
+            <option value="">-- select --</option>
+            <option value="first_year">First year</option>
+            <option value="second_year">Second year</option>
+            <option value="third_year">Third year</option>
+            <option value="fourth_year">Fourth year</option>
+        </select><br>
+        <label for="address">ADDRESS : </label>
+        <textarea id="address" name="address" rows="5" cols="18"></textarea><br>
+        <label for="file">ID PROOF : </label>
+        <input type="file" id="file" name="file"><br>
+        <button type="submit" name="submit">Submit</button>
+        <button type="reset" name="reset">Reset</button>
+    </form>   
+</body>
+</html>
