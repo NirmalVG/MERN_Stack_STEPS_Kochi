@@ -1,0 +1,153 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 10px;
+}
+
+#my-image {
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+}
+
+.image-section{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.about-me {
+    background-color: #02cac0;
+    color: white;
+    width: 65%;
+    margin-left: 450px;
+    margin-top: -350px;
+    height: 350px;
+    padding: 25px;
+}
+
+.name {
+    font-size: 60px;
+}
+
+#title {
+    font-size: 30px;
+}
+
+.line1 {
+    border: 3px solid white;
+    width: 40%;
+    margin-left: 0px;
+}
+
+#description {
+    font-size: 25px;
+}
+
+.icons {
+    height: 25px;
+    width: 25px;
+}
+
+.contact {
+    margin-top: 2px;
+}
+
+.contact-section {
+    margin-left: 30px;
+}
+
+h2 {
+    color: #02cac0;
+}
+
+.line2 {
+    border: 2px solid #02cac0;
+    width: 16%;
+    margin-left: 0px;
+}
+
+.skills {
+    background-color: #02cac0;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: white;
+    width: 15%;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.skill-section {
+    margin-left: 30px;
+}
+
+.dot1 {
+    height: 25px;
+    width: 25px;
+    background-color: #02cac0;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot2 {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.language-section{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.work {
+    margin-left: 450px;
+    margin-top: -1375px;
+}
+
+.line3 {
+    border: 2px solid #02cac0;
+    width: 90%;
+    margin-left: 0px;
+}
+
+.education {
+    margin-left: 450px;
+    margin-top: 75px;
+}
+
+.awards {
+    margin-left: 450px;
+    margin-top: 75px; 
+}
+
+.projects {
+    margin-left: 450px;
+    margin-top: 75px;
+}
+
+.course {
+    color: #02cac0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.year {
+    color: #02cac0;
+    font-size: 10px;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.interests {
+    margin-left: 450px;
+    margin-top: 75px;     
+}
+
+li {
+    list-style-type: circle;
+    font-size: 20px;
+}
