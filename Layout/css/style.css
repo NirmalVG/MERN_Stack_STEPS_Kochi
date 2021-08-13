@@ -1,0 +1,307 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.first-section {
+    height: 1168px;
+    background-color:#f8f7db;
+}
+
+#first-image {
+    height: 1100px;
+}
+
+.second-image-section {
+    height: 1100px;
+    width: 350px;
+    background-color: #ce4205;
+    margin-left: 129px;
+    margin-top: -1105px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.sub-text {
+    color:  yellow;
+    font-weight: bold;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.para {
+    color: yellow;
+    text-align: left;
+    padding: 30px 30px 0 30px;
+    font-size: 18px;
+}
+
+.button {
+    text-align: right;
+    padding-right: 30px;
+}
+
+.read-me {
+    border-radius: 6px;
+}
+
+.para2 {
+    color: #58eb34;
+    text-align: left;
+    padding: 1px 30px 0px 30px;
+    font-size: 18px;
+}
+
+.date {
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.imp {
+    background-color: #76850f;
+}
+
+.second-image {
+    width: 352px; 
+}
+
+.third-image-section {
+    background-color: #a0b31b;
+    height: 1100px;
+    width: 350px;
+    margin-left: 479px;
+    margin-top: -1100px;
+}
+
+.third-image {
+    width: 350px;
+    height: 473px;
+}
+
+.about-us {
+    margin-left: 294px;
+    margin-top: -936px;
+}
+
+.about {
+    height: 100px;
+    width: 90px;
+}
+
+.fourth-image-section {
+    margin-left: 870px;
+    margin-top: -1075px;
+    height: 325px;
+    width: 300px;
+}
+
+.fourth-image {
+    height: 325px;
+    width: 300px;  
+}
+
+.fifth-image-section {
+    margin-left: 1200px;
+    margin-top: -325px;
+    height: 325px;
+    width: 250px;
+}
+
+.fifth-image {
+    height: 325px;
+    width: 250px;
+}
+
+.sixth-image-section {
+    margin-left: 900px;
+    margin-top: 30px;
+}
+
+.sixth-image {
+    width: 575px;
+}
+
+.tick-section {
+    margin-left: 900px;
+}
+
+.tick {
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: #fefced;
+    width: 88%;
+    padding: 1px;
+}
+
+.text {
+   padding-left: 30px;
+   margin-top: -30px;;
+   font-size: 20px;
+}
+
+.seventh-image-section {
+    margin-left: 900px;
+    margin-top: 30px;
+}
+
+.seventh-image {
+    height: 110px;
+    width: 160px;
+}
+
+.eighth-image-section {
+    margin-left: 1090px;
+    margin-top: -112px;
+}
+
+.eighth-image {
+    height: 110px;
+    width: 160px;
+}
+
+.ninth-image-section {
+    margin-left: 1285px;
+    margin-top: -115px;
+}
+
+.ninth-image {
+    height: 110px;
+    width: 160px;
+}
+
+.tenth-image-section {
+    margin-left: 900px;
+    margin-top: 27px;
+}
+
+.tenth-image {
+    height: 100px;
+    width: 545px;
+}
+
+.second-section {
+    height: 400px;
+    background-color: #e9e6c3;
+}
+
+.eleventh-image {
+    margin-left: 50px;
+    margin-top: 20px;    
+    height: 75px;
+    width: 80px;
+}
+
+.twelfth-image-section {
+    margin-left: 130px;
+    margin-top: -43px;
+}
+
+.twelfth-image {
+    margin-left: 2px;
+    margin-top: -43px;
+    height: 70px;
+    width: 200px;
+}
+
+.second-para-section {
+    margin: 50px;
+    width: 50%;
+}
+
+.para3 {
+    padding-right: 35px;
+    text-align: left;
+}
+
+.thirteenth-image-section {
+    margin-left: 900px;
+    margin-top: -240px;
+}
+
+.thirteenth-image {
+    height: 300px;
+    width: 320px;
+}
+
+.important {
+    color: #95a51d;
+    font-weight: bold;
+}
+
+.fourteenth-image-section {
+    margin-top: -300px;
+}
+
+.fourteenth-image {
+    margin-left: 1230px;
+    height: 180px;
+    width: 230px;
+}
+
+.third-section {
+    height: 200px;
+    background-color: #313131;
+}
+
+.contact {
+    margin-top: auto;
+    color: white;
+    text-align: center;
+    padding: 15px 5px 5px 5px;
+}
+
+.copyright {
+    color: yellow;
+    text-align: center;
+    padding: 5px;
+}
+
+.valid1 {
+    margin: 10px 10px 10px 665px;
+    padding: 5px;
+    height: 20px;
+    width: 100px;
+    background-color: #cd4008;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+}
+
+.valid2 {
+    margin: 10px;
+    padding: 5px;
+    height: 20px;
+    width: 100px;
+    background-color: #cd4008;
+    text-align: center;
+    border-radius: 8px;
+    color: white;
+}
+
+.me {
+    background-color: #252525;
+    text-align: center;
+    font-weight: bold;
+}
+
+.designed {
+    text-align: center;
+    color: white;
+}
+
+.button2 {
+    padding-right: 30px;
+    margin-left: 660px;
+    margin-top: 15px;
+}
+
+.read {
+    border-radius: 6px;
+}
