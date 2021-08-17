@@ -45,8 +45,10 @@ h2 {
     padding-right: 30px;
 }
 
-.read-me {
+.read-more {
     border-radius: 6px;
+    width: 60px;
+    height: 25px;
 }
 
 .para2 {
@@ -87,7 +89,7 @@ h2 {
 
 .about-us {
     margin-left: 294px;
-    margin-top: -936px;
+    margin-top: -944px;
 }
 
 .about {
@@ -133,56 +135,60 @@ h2 {
 }
 
 .tick {
-    margin-top: 10px;
+
     margin-left: 5px;
     background-color: #fefced;
     width: 88%;
-    padding: 1px;
+}
+
+.main-tick{
+    color: #9fb31b;
 }
 
 .text {
-   padding-left: 30px;
-   margin-top: -30px;;
+   margin-top: 6px;
+   margin-bottom: 6px;
    font-size: 20px;
+   padding: 7px;
 }
 
 .seventh-image-section {
     margin-left: 900px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .seventh-image {
-    height: 110px;
-    width: 160px;
+    height: 130px;
+    width: 170px;
 }
 
 .eighth-image-section {
-    margin-left: 1090px;
-    margin-top: -112px;
+    margin-left: 1085px;
+    margin-top: -134px;
 }
 
 .eighth-image {
-    height: 110px;
-    width: 160px;
+    height: 130px;
+    width: 170px;
 }
 
 .ninth-image-section {
-    margin-left: 1285px;
-    margin-top: -115px;
+    margin-left: 1275px;
+    margin-top: -134px;
 }
 
 .ninth-image {
-    height: 110px;
-    width: 160px;
+    height: 130px;
+    width: 170px;
 }
 
 .tenth-image-section {
     margin-left: 900px;
-    margin-top: 27px;
+    margin-top: 50px;
 }
 
 .tenth-image {
-    height: 100px;
+    height: 120px;
     width: 545px;
 }
 
@@ -220,14 +226,62 @@ h2 {
     text-align: left;
 }
 
-.thirteenth-image-section {
-    margin-left: 900px;
-    margin-top: -240px;
-}
 
 .thirteenth-image {
-    height: 300px;
-    width: 320px;
+    height: 30px;
+    width: 30px;
+    padding: 18px;;
+}
+
+.form-header {
+    margin-left: 900px;
+    margin-top: -260px;
+    background-color: #fcfaed;
+    height: 60px;
+    width: 300px;
+}
+
+.member {
+    margin-left: 70px;
+    margin-top: -60px;
+    font-size: 26px;
+    padding: 5px;
+}
+
+.form-main {
+    margin-left: 900px;
+    height: 220px;
+    width: 300px;
+    background-color: #f2eed1;
+}
+
+input {
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 80%;
+    height: 25px;
+}
+
+.enter {
+    margin: 0px 0px 1px 10px;
+    padding-top: 10px;
+    font-weight: bold; 
+}
+
+.forgot {
+    padding-left: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #9fb319;
+}
+
+.login {
+    margin-left: 220px;
+    margin-top: -50px;
+    padding-bottom: 10px;
+    height: 35px;
+    width: 55px;
 }
 
 .important {
@@ -237,10 +291,10 @@ h2 {
 
 .fourteenth-image-section {
     margin-top: -300px;
+    margin-left: 1230px;
 }
 
 .fourteenth-image {
-    margin-left: 1230px;
     height: 180px;
     width: 230px;
 }
@@ -255,12 +309,14 @@ h2 {
     color: white;
     text-align: center;
     padding: 15px 5px 5px 5px;
+    margin-bottom: 6px;
 }
 
 .copyright {
     color: yellow;
     text-align: center;
     padding: 5px;
+    margin-top: 5px;
 }
 
 .valid1 {
@@ -294,6 +350,7 @@ h2 {
 .designed {
     text-align: center;
     color: white;
+    margin-top: 20px;
 }
 
 .button2 {
@@ -304,4 +361,7 @@ h2 {
 
 .read {
     border-radius: 6px;
+    width: 60px;
+    height: 25px;
+    margin-top: -60px;
 }
