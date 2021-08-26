@@ -1,0 +1,120 @@
+body {
+    margin-top: 85px;
+}
+
+.first-row {
+    margin-left: 1px;
+}
+
+.violet-section1 {
+    background-color: #8d43b3;
+    border-radius: 10px;
+    height: 225px;
+    margin-bottom: 10px;
+}
+
+.green-section1 {
+    background-color: #2aa650;
+    border-radius: 10px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.blue-section1 {
+    background-color: #58aae8;
+    border-radius: 10px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.green-section2 {
+    background-color: #2aa650;
+    border-radius: 10px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.violet-section2 {
+    background-color: #8d43b3;
+    border-radius: 10px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.green-section3 {
+    background-color: #2aa650;
+    border-radius: 10px;
+    height: 385px;
+    margin-bottom: 10px;
+}
+
+.red-section1 {
+    background-color: #e74e33;
+    border-radius: 10px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.blue-section2 {
+    background-color: #58aae8;
+    border-radius: 10px;
+    height: 96px;
+    margin-bottom: 10px;
+}
+
+.red-section2 {
+    background-color: #e74e33;
+    border-radius: 10px;
+    height: 279px;
+    margin-bottom: 10px;
+}
+
+.green-section4 {
+    background-color: #2aa650;
+    border-radius: 10px;
+    height: 96px;
+    margin-bottom: 10px;    
+}
+
+.blue-section3 {
+    background-color: #58aae8;
+    border-radius: 10px;
+    height: 96px;
+    margin-bottom: 10px;
+}
+
+.red-section3 {
+    background-color: #e74e33;
+    border-radius: 10px;
+    height: 96px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 298px;
+}
+
+.violet-section3 {
+    background-color: #8d43b3;
+    border-radius: 10px;
+    height: 260px;
+    margin-bottom: 10px;
+}
+
+.blue-section4 {
+    background-color: #58aae8;
+    border-radius: 10px;
+    height: 64px;
+    margin-bottom: 10px;
+}
+
+.second-row {
+    margin-left: -1px;
+}
+
+.third-row {
+    margin-left: 1px;
+}
+
+.section2 {
+    margin-left: -10px;
+    margin-right: -10px;
+}
