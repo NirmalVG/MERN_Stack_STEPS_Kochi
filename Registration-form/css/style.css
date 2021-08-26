@@ -1,0 +1,30 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+.copyright {
+  color: white;
+}
+
+.school {
+  text-decoration: none;
+}
+
+.sign-in {
+  color: white;
+  text-decoration: none;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+}
+.card-registration .select-arrow {
+  top: 13px;
+}
