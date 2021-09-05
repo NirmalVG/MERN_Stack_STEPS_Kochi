@@ -192,11 +192,16 @@ h2 {
     text-align: left;
 }
 
+.link-list {
+    padding-bottom: 15px;
+}
+
 .footer-link {
     font-size: 15px;
     color: inherit;
     text-align: left;
     padding-left: 0px;
+    list-style-type: none;
 }
 
 a, a:hover, a:focus, a:active {
