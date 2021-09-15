@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <table class="calculator">
+        <tr>
+            <td colspan="3"><input class="display-box" type="text" id="result" disabled></td>
+            <td><input class="button main-button operators" type="button" value="C" onclick="clr()"></td>
+        </tr>
+        <tr>
+            <td><input class="button" type="button" value="7" onclick="disp(this.value)"></td>
+            <td><input class="button" type="button" value="8" onclick="disp(this.value)"></td>
+            <td><input class="button" type="button" value="9" onclick="disp(this.value)"></td>
+            <td><input class="button operators" type="button" value="/" onclick="symbolClick(this.value)"></td>
+        </tr>
+        <tr>
+            <td> <input class="button" type="button" value="4" onclick="disp(this.value)"></td>
+            <td> <input class="button" type="button" value="5" onclick="disp(this.value)"></td>
+            <td> <input class="button" type="button" value="6" onclick="disp(this.value)"> </td>
+            <td> <input class="button operators" type="button" value="-" onclick ="symbolClick(this.value)"></td>
+        </tr>
+        <tr>
+            <td> <input class="button" type="button" value="1" onclick="disp(this.value)"></td>
+            <td> <input class="button" type="button" value="2" onclick="disp(this.value)"></td>
+            <td> <input class="button" type="button" value="3" onclick="disp(this.value)"></td>
+            <td> <input class="button operators" type="button" value="+" onclick="symbolClick(this.value)"></td>
+        </tr>
+        <tr>
+            <td> <input class="button" type="button" value="." onclick="disp(this.value)"></td>
+            <td> <input class="button" type="button" value="0" onclick="disp(this.value)"></td>
+            <td> <input class="button main-button" type="button" value="=" onclick="solve()"></td>
+            <td> <input class="button operators" type="button" value="*" onclick="symbolClick(this.value)"></td>
+        </tr>
+    </table>
+    <script src="script.js"></script> 
+</body>
+</html>
